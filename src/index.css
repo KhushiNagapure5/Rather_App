@@ -1,0 +1,389 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+
+.li_a{
+    float: left;
+    font-weight: 600;
+    font-size: large;
+    color: black;
+    position: relative;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 0 10px;
+    margin: 0 30px;    
+}
+.li_a:hover{
+    color:#6689FF ;
+}
+.share{
+    margin-left: 1rem;
+    font-size: larger;
+}
+
+.caption {
+    color: white;
+    margin-bottom: 600px;
+    font-weight: bold;
+}
+
+.c1{
+    color:rgb(38, 38, 211);
+    margin-bottom: 550px;
+
+}
+
+button{
+    color: white;
+    background-color: #6689FF;
+    height: 50px;
+    width: 200px;
+    border: none;
+    font-weight: bolder;
+}
+
+button:hover{
+    background-color: black;
+}
+
+.card{
+    float: left;
+    margin-top: 3rem;
+    margin-bottom: -1rem;
+    width: 100%;
+    box-shadow: 0px 0px 15px 1px rgb(224, 223, 223);
+    cursor: pointer;
+    border: none;
+}
+
+.card:hover{
+    box-shadow: 0px 0px 5px 0px #6689FF;
+}
+.card-body{
+    height: 250px;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-body h1{
+    font-size: 38px;
+    margin-bottom: 35px;
+
+}
+.card-body h1:hover{
+    color: #6689FF;
+}
+
+.card-body p:hover{
+    color: #6689FF;
+}
+
+.dev_app{
+    float:left;
+    height: 400px;
+    width: 100%;
+    background-image: url("https://livedemo00.template-help.com/wt_51694/images/parallax-1.jpg");
+    text-align: end;
+    color: white;
+    justify-content: end;
+    /* padding: 10rem; */
+    margin-top: 3rem;
+}
+
+.dev_app p{
+    margin-top: 1rem;
+    font-weight: bold;
+}
+.dev_app button{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.learn_more{
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+}
+
+.learn_more:hover{
+    border: none;
+}
+
+.all_menu{
+    float: left;
+    list-style: none;
+    justify-content: center;
+    margin-top: -5rem;
+    font-size:larger;
+    font-weight: 400;
+    color: #A1A8B9;
+}
+.all_menu{
+    font-size: large;
+    
+}
+
+.all_menu li:hover{
+    color: #6689FF;
+}
+
+.imgg{
+    float: left;
+    height: 350px;
+    width: 400px;
+}
+
+.imgg{
+    width:100%;
+    float: left;
+}
+
+.exp h1{
+    padding: 1rem;
+    border-left: 5px solid #D7D7D7;
+}
+.exp_img img{
+    margin-top: 2rem;
+}
+.exp p{
+    font-weight: 600;
+    color: #A7A39F;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.expp{
+    float: left;
+    margin-top: 5rem;
+    /* margin-left: 5rem; */
+
+}
+.expp1 {
+    border-bottom: 1px solid #A7A39F;
+    border-right: 1px solid #A7A39F;
+
+}
+.expp2 {
+    border-bottom: 1px solid #A7A39F;
+}
+
+.expp3 {
+    border-right: 1px solid #A7A39F;
+
+}
+
+.expp div div h1{
+    font-size: 70px;
+
+}
+
+.expp div div p{
+    color: #A7A39F;
+}
+
+.logo div img{
+    border: 1px solid black;
+}
+
+.logo div img:hover{
+    margin-top: 1rem;
+    border: none;
+    box-shadow: 0px 0px 10px 0px #6689FF;
+}
+
+.logo{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    /* margin: 5rem; */
+}
+
+.btn3{
+    background-color: #6689FF;
+
+}
+
+.btn3:hover{
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+}
+
+.pro_img{
+    box-shadow: 0px 0px 7px 1px rgb(224, 223, 223);
+    cursor: pointer;
+}
+
+.pro_img:hover{
+    box-shadow: 0px 0px 15px 1px #6689FF;
+    padding-block-start: 1rem;
+}
+.team div{
+    margin-right: 1rem;
+    float: left;
+    width: 360px;
+}
+.team div div {
+    background: rgba(0,0,0,0.5);
+    width: 50%;
+    color: white;
+    margin-top: 18rem;
+
+}
+
+.team div div:hover {
+    padding-left: 2rem;
+    width: 70%;
+}
+
+.team div div h1{
+    font-size: x-large;
+}
+
+.team1{
+    height: 400px;
+    background-image: url("https://livedemo00.template-help.com/wt_51694/images/team-11-420x424.jpg");
+    filter: grayscale(100);
+}
+.team1:hover{
+    filter: grayscale(0);
+}
+
+.team2{
+    height: 400px;
+    background-image: url("https://livedemo00.template-help.com/wt_51694/images/team-12-420x424.jpg");
+    filter: grayscale(100);
+}
+.team2:hover{
+    filter: grayscale(0);
+}
+.team3{
+    height: 400px;
+    background-image: url("https://livedemo00.template-help.com/wt_51694/images/team-13-420x424.jpg");
+    filter: grayscale(100);
+}
+.team3:hover{
+    filter: grayscale(0);
+}
+
+.team4{
+    height: 400px;
+    background-image: url("https://livedemo00.template-help.com/wt_51694/images/team-14-420x424.jpg");
+    filter: grayscale(100);
+}
+.team4:hover{
+    filter: grayscale(0);
+}
+
+.meet_team{
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.shadow{
+    box-shadow: 0px 0px 10px 5px rgb(203, 203, 203);
+}
+
+
+
+.card2{
+    height: auto;
+    background-color: #1B1929;
+    color: white;
+}
+
+.pack{
+    font-size: large;
+}
+
+.info{
+    float: left;
+    height :300px;
+    width:100%;
+    /* margin-left:1rem; */
+    margin-bottom:2rem;
+    border-radius: 5% 5%;
+    box-shadow: 0px 0px 10px 0px rgb(205, 203, 203) ;
+}
+.info:hover{
+    padding-block-start: 1rem;
+}
+.iconn{
+    width: 100px;
+    height: 100px;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    cursor: pointer;
+    padding-bottom: 1rem;
+
+}   
+.iconn:hover{
+    border-bottom:5px solid #6689FF;
+}
+
+.iconn ion-icon{
+    height: 90%;
+    width: 90%;
+    padding-block: 1rem;
+
+}
+.info h5{
+    margin-top: 3rem;
+    cursor: pointer;
+}
+
+.info h5:hover{
+    color: #6689FF;
+}
+
+.get{
+    margin-top: 1rem;
+    border-right: 1px solid rgb(176, 175, 175);
+}
+.gett{
+    margin-top: 2rem;
+}
+.name{
+    width: 100%;
+    height: 50px;
+    margin-top: 2rem;
+
+}
+
+.msg{
+    margin-top: 2rem;
+    width: 100%;
+    height: 200px;
+}
+
+.footer div ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 3rem;
+}
+
+.main_footer{
+    background-color: #1B1929;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.footer{
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+.toggler_btn{
+    width: 4rem;
+}
+.toggler_btn:hover{
+    background-color: #6689FF;
+    box-shadow: none;
+}
+
+@media (max-width:991px) {
+    .sidebar{
+        background-color: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(10px);
+    }
+}
