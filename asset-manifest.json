@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rather_App/static/css/main.25b17bc1.css",
+    "main.js": "/Rather_App/static/js/main.5abf3354.js",
+    "static/js/453.47b15d97.chunk.js": "/Rather_App/static/js/453.47b15d97.chunk.js",
+    "index.html": "/Rather_App/index.html",
+    "main.25b17bc1.css.map": "/Rather_App/static/css/main.25b17bc1.css.map",
+    "main.5abf3354.js.map": "/Rather_App/static/js/main.5abf3354.js.map",
+    "453.47b15d97.chunk.js.map": "/Rather_App/static/js/453.47b15d97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b17bc1.css",
+    "static/js/main.5abf3354.js"
+  ]
+}
